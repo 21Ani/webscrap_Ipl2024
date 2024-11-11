@@ -20,17 +20,6 @@ Ensure you have the following Python libraries installed:
 - `beautifulsoup4`
 - `pandas` (optional, for further data manipulation)
 
-### Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ipl-auction-scraper.git
-   ```
-
-2. Run the Python script:
-   ```bash
-   python scraper.py
-   ```
 
 ### Note
 This script depends on the structure of the webpage remaining consistent. If the webpage structure changes, adjustments to the HTML parsing may be necessary.
